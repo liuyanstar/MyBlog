@@ -5,12 +5,12 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "https://liuyanstar.github.io/MyBlog" # the subpath of your site, e.g. /blog
+baseurl: "https://liuyanstar.github.io/MyBlog" 
 url: "https://liuyanstar.github.io/MyBlog" 
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title:See the world through my eyes. # add banner title
+banner-title: "See the world through my eyes." # add banner title
 banner-desc: # add banner description
 
 # Author settings
