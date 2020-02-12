@@ -1,17 +1,18 @@
-logo: # add logo name
-title: Bef - Enjoy Freedom
+logo: HenryLau's Blog # add logo name
+title: Hello World | Welcome!
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "https://liuyanstar.github.io/MyBlog/" # the subpath of your site, e.g. /blog
-url: "https://liuyanstar.github.io/MyBlog/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://liuyanstar.github.io/MyBlog/" 
+url: "https://liuyanstar.github.io/MyBlog/" 
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: HenryLau's Blog # add banner title
+banner-desc: Welcome to my blog!
+See the world through my eyes # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
